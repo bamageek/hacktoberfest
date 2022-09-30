@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [David Smith](GitHub link)
+- Place: Marbury, Alabama, United States
+- Bio: Web Developer, BBS Sysop, general nerd
+- GitHub: [GitHub account name](https://github.com/bamageek)
